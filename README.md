@@ -31,7 +31,7 @@ Customer sentiment trends and alignment between ratings and feedback for quick d
 
 This dashboard helps:
 
-Identify trust issues in reviews
-Monitor brand performance
-Improve customer experience strategies
-Support data-driven decision making
+1)Identify trust issues in reviews
+2)Monitor brand performance
+3)Improve customer experience strategies
+4)Support data-driven decision making
