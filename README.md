@@ -23,9 +23,9 @@ A smart summary highlights:
 Customer sentiment trends and alignment between ratings and feedback for quick decision-making.
 
 **Tech Stack**
-Power BI – Dashboard creation & visualization
-Python (Pandas) – Data cleaning & preprocessing
-SQL – Data transformation & querying
+1)Power BI – Dashboard creation & visualization
+2)Python (Pandas) – Data cleaning & preprocessing
+3)SQL – Data transformation & querying
 
 **Business Value**
 
