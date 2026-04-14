@@ -1,15 +1,24 @@
-**Amazon_Reviews_Dashboard**
+🚀 Overview
+
 This project presents a Power BI dashboard that analyzes Amazon product reviews to uncover insights related to customer sentiment, rating patterns, and review consistency.
 The dashboard transforms raw review data into actionable intelligence, helping identify trends, anomalies, and potential data inconsistencies (e.g., mismatch between ratings and sentiment).
 
-**Key Objectives**
+🎯 Key Objectives
 Analyze customer sentiment distribution
 Evaluate rating patterns across products
 Detect review inconsistencies (mismatch analysis)
 Identify top and lowest performing brands
 Understand impact of discounts on engagement and satisfaction
 
-**Visual Insights**
+📌 Key Features
+🔹 KPI Metrics
+Total Reviews
+Average Rating
+Positive %
+Negative %
+Mismatch %
+
+🔹 Visual Insights
 Sentiment Distribution (Positive / Neutral / Negative)
 Match vs Mismatch Analysis (Review consistency check)
 Rating Distribution
@@ -18,20 +27,19 @@ Top Rated Brands
 Lowest Rated Brands
 Top Brands with Review Mismatch
 
-**AI Insight Layer**
+🔹 AI Insight Layer
+
 A smart summary highlights:
 Customer sentiment trends and alignment between ratings and feedback for quick decision-making.
 
-**Tech Stack**
-1)Power BI – Dashboard creation & visualization
-2)Python (Pandas) – Data cleaning & preprocessing
-3)SQL – Data transformation & querying
+🧠 Key Insights
+Majority of reviews are positive (~78%), indicating strong customer satisfaction
+Average rating is 4.49, showing overall product approval
+Mismatch % (~7.5%) highlights cases where ratings and sentiment do not align
+Certain brands show higher inconsistency, indicating potential review reliability issues
+Higher discounts correlate with increased engagement and ratings
 
-**Business Value**
-
-This dashboard helps:
-
-1)Identify trust issues in reviews
-2)Monitor brand performance
-3)Improve customer experience strategies
-4)Support data-driven decision making
+🛠️ Tech Stack
+Power BI – Dashboard creation & visualization
+Python (Pandas) – Data cleaning & preprocessing
+SQL – Data transformation & querying
